@@ -1,6 +1,6 @@
 # ScrapEZ
 
-ScrapEZ is a powerful web application that allows you to extract data from any website in CSV or JSON format. It utilizes Python's web scraping libraries like BeautifulSoup and Requests, and is built with the modern FastAPI framework for the backend and Vue.js for the frontend.
+ScrapEZ is a web application that allows you to extract data from any website in CSV or JSON format. It utilizes Python's web scraping libraries like BeautifulSoup and Requests, and is built with the modern FastAPI framework for the backend and Vue.js for the frontend.
 
 ## Features
 
